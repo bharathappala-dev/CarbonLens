@@ -1,0 +1,6 @@
+{
+  "name": "CarbonLens — Personal Carbon Footprint & ML Analytics",
+  "description": "An interactive personal carbon footprint calculator, dataset explorer, and machine learning model benchmark studio powered by Random Forest and LSTM neural networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
